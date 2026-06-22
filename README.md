@@ -14,9 +14,9 @@ Surely you have friends who as soon as they start a world, think they are in a s
 
 When they enter a dimension, they will not able to move during some seconds, then will get teleported back to the overworld by default, all restrictions are highly customizable:
 
-![](media/demo_theend.png)
+https://github.com/user-attachments/assets/45b75ab3-bad0-40da-993d-1c0f3bee0afc
 
-![](media/demo_thenether.png)
+https://github.com/user-attachments/assets/00580fea-730c-431d-8fab-6df0028ea834
 
 ### USAGE:
 
